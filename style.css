@@ -18,6 +18,10 @@ body {
     /* background: linear-gradient(to bottom, #030305 65%, #1a1a1c 0%); */
 }
 
+html, body {
+    overflow-x:hidden 
+  }
+
 .bg-block {
     width: 100%;
     height: 3920px;
@@ -170,9 +174,9 @@ a {
 
 @media screen and (max-width: 1070px) {
 
-    body {
+    /* body {
         overflow-x: hidden;
-    }
+    } */
 
     .search>img:nth-child(1) {
         width: 75%;
