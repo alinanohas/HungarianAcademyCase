@@ -1,0 +1,24 @@
+@font-face{
+    src: url(Fonts/OpenSans-300.ttf);
+    font-family: 'OpenSans-300';
+}
+
+@font-face{
+    src: url(Fonts/OpenSans-400.ttf);
+    font-family: 'OpenSans-400';
+}
+
+@font-face{
+    src: url(Fonts/OpenSans-600.ttf);
+    font-family: 'OpenSans-600';
+}
+
+@font-face{
+    src: url(Fonts/OpenSans-700.ttf);
+    font-family: 'OpenSans-700';
+}
+
+@font-face{
+    src: url(Fonts/OpenSans-800.ttf);
+    font-family: 'OpenSans-800';
+}
