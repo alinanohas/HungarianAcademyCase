@@ -321,6 +321,7 @@ a {
         font-size: 12px;
     }
     .centr-image img {
-        width: 111%;
+        width: 115%;
+        height: auto;
     }
 }
